@@ -1,6 +1,4 @@
-# Depression-detection-using-Twitter-Dataset
-
-# Depression Detection using Machine Learning Techniques
+# Depression-Detection-using-Twitter-Dataset
 
 ## Project Overview
 
